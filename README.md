@@ -45,5 +45,5 @@ Epoch [50/50] | Train Loss: 0.412 | Val Loss: 0.445 | Accuracy: 91.2%
  ```
 ## Clone the Repository
 ```bash
-git clone https://github.com/yourusername/SpamNet.git
+git clone https://github.com/tallal02/SpamNet.git
 cd SpamNet
